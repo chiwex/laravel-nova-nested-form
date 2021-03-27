@@ -1,5 +1,5 @@
 {
-  "name": "yassi/nova-nested-form",
+  "name": "chiwex/nova-nested-form",
   "description": "A Laravel Nova package that allows you to create/update/delete nested related fields from a parent form.",
   "keywords": [
     "laravel",
@@ -36,6 +36,6 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require-dev": {
-    "laravel/nova": "^3.0"
+    "chiwex/nova": "^3.0"
   }
 }
